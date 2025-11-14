@@ -48,7 +48,7 @@ Creating interactive ML apps with Streamlit
 
 End-to-end workflow from dataset to UI
 
-How to Run
+# How to Run
 
 Install required libraries:
 
